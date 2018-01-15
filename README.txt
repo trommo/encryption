@@ -1,0 +1,1 @@
+Trying use the MD5 and SHA1 encryption methods in Ruby
